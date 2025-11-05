@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1762301850218,
+      "tag": "0000_clumsy_living_mummy",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1762301882338,
+      "tag": "0001_romantic_mandrill",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1762303240496,
+      "tag": "0002_puzzling_ultimatum",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1762325075973,
+      "tag": "0003_lazy_donald_blake",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1762327218404,
+      "tag": "0004_living_thundra",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1762378555693,
+      "tag": "0005_handy_blade",
+      "breakpoints": true
+    }
+  ]
+}

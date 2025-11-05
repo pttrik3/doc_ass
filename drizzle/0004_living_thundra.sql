@@ -1,0 +1,1 @@
+ALTER TABLE `templates` ADD `isCustom` enum('true','false') DEFAULT 'false' NOT NULL;
